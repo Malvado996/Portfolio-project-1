@@ -12,4 +12,4 @@ I have checked it for functionality in Firefox, Chrome, and Internet Explorer.
 I added an additional page, styling to the profile pic, and under the Experience
 page a new element with text and an extra image.
 
-Thanks for taking a look at my work, have a great day!
+Thanks for taking a look at my work, have a great day! -Phil
